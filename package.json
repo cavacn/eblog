@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "@types/koa-bodyparser": "^3.0.23",
+    "@types/koa-router": "^7.0.22",
+    "graphql": "^0.10.1",
+    "graphql-server-koa": "^0.8.0",
+    "koa": "^2.2.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.2.0"
+  },
+  "name": "eblog",
+  "version": "0.0.1",
+  "description": "eblog",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cavacn/eblog.git"
+  },
+  "keywords": [
+    "graphQL",
+    "antd",
+    "react",
+    "mobx",
+    "koa"
+  ],
+  "author": "iamee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cavacn/eblog/issues"
+  },
+  "homepage": "https://github.com/cavacn/eblog#readme"
+}
